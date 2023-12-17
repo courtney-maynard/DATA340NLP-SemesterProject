@@ -1,1 +1,1 @@
-This file contains the custom Word2Vec embeddings models, the BiLSTM, DTC, RNN, and HAN models used in the individual portions of the project before being loaded into the ensemble notebooks. It also contains my in-progress class presentation, in PDF format.
+This file contains the custom Word2Vec embeddings models, the LR, BiLSTM, HAN, DTC, and RNN models used in the individual portions of the project before being loaded into the ensemble notebooks. It also contains my in-progress class presentation, in PDF format.
